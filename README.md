@@ -1,2 +1,3 @@
-# first
-pebble
+Пробный watchface для pebble
+
+# ᕕ( ᐛ )ᕗ
